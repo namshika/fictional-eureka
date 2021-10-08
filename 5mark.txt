@@ -1,0 +1,20 @@
+1.For any positive integer n, prove that n^3–n is divisible by 6.
+2.The houses in a row are numbered consecutively from 1 to 49.Show that there exists a value of xsuch that the sum of numbers of houses preceding the house numbered x is equal to sum of the number of houses following x.
+3.The first and the last terms of an AP are 10 and 361respectively. If its common difference is 9 then find the number of terms and their total sum?
+4.A motor boat whose speed is 24km/hr in still water takes 1hr more to go 32km upstream than to return downstream to the same spot. Find the speed of the stream.
+5.A train was to cover a distance of 2800km in a prefixed time duration. But due to the foggy weather the speed of train was slowed down which reduced the average speed of the train for the overall journey by 100 km/hr.  The time duration for the journey also increased by 30min. Determine the original speed and travel time taken by the train.
+6.Two taps running together can fill a tank in 3(1/13) hours. If one tap takes 3 hours more than the other to fill the tank, then how much time will each tap take to fill the tank?
+7.If a line is drawn parallel to one side of a triangle to intersect the other two sides in distinct points, then the other two sides are divided in the same ratio. Prove it.
+8.Find the area of the minor segment of a circle of radius 14 cm, when its central angle is 60°.Also find the area of the corresponding major segment. [Use π = 22/7]
+9.Prove that the chords of a circle that are equidistant from the centre are equal in length.
+10.The angle of elevation of the top of a cliff when observed from the top of a lighthouse is 60o and the angle of depression of the base of the cliff observed from the same point comes to be 30o. If the height of the lighthouse above water level is 12 m then calculate the height of the cliff and its distance from the lighthouse. [Use, (3)^1/2= 1.732]
+11.Construct a triangle ABC with side BC = 7 cm, ∠B = 45°, ∠A = 105°. Then construct another triangle whose sides are 3/4 times the corresponding sides of the ∆ABC. 
+12.Find the sum of first 24 terms of an A.P. whose nth term is given by a^n=3+2n.
+13.A solid metallic cylinder of diameter 12 cm and height 15 cm is melted and recast into toys in the shape of a cone of radius 3 cm and height 9 cm. Find the number of toys so formed.
+14.From a pack of 52 playing cards, Jacks and Kings of red colour and Queens and Aces of black colour are removed. The remaining cards are mixed and a card is drawn at random. Find the probability that the drawn card is (i) a black Queen (ii) a card of red colour (iii) a Jack of black colour (iv) a face card.
+15.From a point P on the ground, the angles of elevation of the top of a 10 m tall building and a helicopter, hovering at some vertically over the top the building are 30∘ and 60∘ respectively. Find the height of the helicopter above the ground.
+16.A and B working together can do a work in 6 days. If A takes 5 days less than B to finish the work, in how many days B alone can do the work.
+17.Find the area of the triangle formed by joining the mid-points of sides of triangle vertices (2,1), (4,3) and (2,5).
+18.Prove that the parallelogram circumscribing a circle is a rhombus.
+19.Find the sum of all such multiples of 7 which are less than 500.
+20.In a rain-water harvesting system, the rain-water from a roof of 22m × 20 m drains into a cylindrical tank having diameter of base 2 m and height 3.5 m. If the tank is full, find the rainfall in cm. Write your views on water conservation.

@@ -1,0 +1,20 @@
+1.For any positive integer n, prove that n^3 ‒ n is divisible by 6.
+2.Prove that (3)^1/2 is irrational. 
+3.144 cartons of Coke cans and 90 cartons of Pepsi cans are to be stacked in a canteen. If each stack is of the same height and is to contain cartons of the same drink, what would be the greatest number of cartons each stack would have ?
+4.At present Asha’s age (in years) is 2 more than the square of her daughter Nisha’s age. When Nishagrows to her mother’s present age, Asha’s age would be one year less than 10 times the present age of Nisha. Find the present ages of both Asha and Nisha.
+5.The sum of the 4th and 8th terms of an AP is 24 and the sum of the 6th and 10th term is 44. Find the first three terms of the AP.
+6.If the point C(−1,2) divides the line segment AB in the ratio 3 : 4, where the coordinates of Aare (2, 5), then find the coordinates of B.
+7.The  taxi  charges  in  a  city  comprise  of  a  fixed  charge  together  with  the  charges  for  the distance covered. For a journey of 10 km the charge paid is Rs. 75 and for a journey of 15 km the charge paid is Rs.  110. (i) What will a person have to pay for travelling a distance of 25 km? (ii)Which mathematical concept is used in this question? (iii) What is its value? 
+8.Construct a triangle of sides 4 cm, 5 cm and 6 cm and then a triangle similar to ti whose sides are 2/3 of the corresponding sides of the first triangle.
+9.D, E and F are the mid points of the sides BC, CA and AB respectively oftriangle ABC. Determine the ratio of the areas of trangles DEF and ABC. 
+10.ABC is a right angled triangle with AB = 6 cm and AC = 8 cm. A circle with centre O has been inscribed inside the triangle. Calculate the value of r, the radius of the inscribed circle. 
+11.The angles of elevation of a car on a road to the two men standing at first floor and second floor of a building are 01and 02 respectively. If the height of the second floor is d,show that the height of the first floor is dtan(01)/(tan(02)-tan(01))
+12.A solid cylinder of diameter 12 cm and height 15 cm is melted and recast into toys with the shape of a right circular cone mounted on a hemisphere of radius 3 cm. If the height of the toy is 12 cm, find the number of toys so formed.
+13.A wooden article was made by scooping out a hemisphere from each end of a solid cylinder. If the height of the cylinder is 10 cm and its base is of radius 3.5 cm. Find the total surface area of the article.
+14.A heap of rice is in the form of a cone of base diameter 24 m and height 3.5 m. Find the volume of the rice. How much canvas cloth is required to just cover the heap?
+15.If 4tan0=3, evaluate (4sin0 - cos0 + 1)/(4sin0 + cos0 -1)
+16.In a triangle PQR,a line AB is cutsuch that (PA/PB)=(AQ/BR)=3.If the area of PQR is 32 cm^2, then find the area of the quadrilateral AQRB.
+17.Show that 1/2 and -3/2 are the zeroes of the polynomial (4x^2 + 4x - 3)and verify the relationship 2 between zeroes and co-efficients of polynomial.
+18.Two different dice are thrown together. Find the probability that the numbers obtained (i) have a sum less than 7 (ii) have a product less than 16 (iii) is a doublet of odd numbers.
+19.The area of a triangle is 5 sq units. Two of its vertices are (2,1) and (3,-2). If the third vertex is ((7/2),y), then find the value of y.
+20.A hemisphere of maximum possible diameter is placed over a cuboidal block of side 7 cm. Find the surface area of the solid so formed.

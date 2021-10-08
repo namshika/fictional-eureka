@@ -1,0 +1,20 @@
+1.Find the number of all three-digit natural numbers which are divisible by 9.
+2.Solve the following system of linear equations by substitution method:(2x – y = 2)(x + 3y =15)
+3.Prove that the points (3, 0), (6, 4) and (‒1, 3) are the vertices of a right angled isosceles triangle.
+4.Find the number of all three-digit natural numbers which are divisible by 9.
+5.Which term of the progression 20, 19(1/4), 18(1/2), 17(3/4),...is the first negative term?
+6.Find the value of ‘k’ for which the system of equations kx+3y=1, 12x+ky=2 has no solution
+7.From a rectangular sheet of paper ABCD with AB = 40 cm and AD = 28 cm, a semi-circular portion with BC as diameteris cut off. Find the area of remining paper (use π= 22/7)
+8.Evaluate: (sin 90/cos 45) + 1/(cosec30)
+9.Evaluate: ((6sin 23)+(sec 79)+(3tan 48))/((cosec11)+(3cot 42)+(6cos 67))
+10.If p, b and h are the perpendicular, base and hypotenuse of a right angled triangle, then prove that the radius of the circle touching the sides of the right angled triangle is given by r=(b+p-h)/2
+11.A card is drawn at random from a pack of 52 playing cards. Find the probability that the card drawn is neither an ace nor a king.
+12.ABCD is a square. Let E be the midpoint of AB and F be the midpoint of AD. If a point is drawn at random in the square, then what is the probability that it lies in the triangle AEF?
+13.Solve the following system of linear equations by substitution method:(2x –y = 2),(x+ 3y=15)
+14.Express (cos 68)+(tan 76) in the terms of the angles between 0 and 45
+15.Find the sum of first 8 multiples of 3.
+16.Find the ratio in which P(4, m) divides the line segment joining the points A(2, 3) and B(6, 3). Hence find m.
+17.Two different dice are tossed together. Find the probability: (i.) of getting a doublet (ii.) of getting a sum 10, of the numbers on the two dice. 
+18.An integer is chosen at random between 1 and 100. Find the probability that it is : (i.) divisible by 8. (ii.) not divisible by 8. 
+19.A granary is in the shape of a cuboid of size 10 m × 8 m × 4 m. If a bag of grain occupies a space of 0.75 m^3, how many bags can be stored in granary?
+20.Prove that the tangents drawn at the end points of a chord of a circle make equal angles with the chord

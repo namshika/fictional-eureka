@@ -1,0 +1,13 @@
+12.ABCD is a square. Let E be the midpoint of AB and F be the midpoint of AD. If a point is drawn at random in the square, then what is the probability that it lies in the triangle AEF?
+7.From a rectangular sheet of paper ABCD with AB = 40 cm and AD = 28 cm, a semi-circular portion with BC as diameteris cut off. Find the area of remining paper (use π= 22/7)
+4.Find the number of all three-digit natural numbers which are divisible by 9.
+16.Find the ratio in which P(4, m) divides the line segment joining the points A(2, 3) and B(6, 3). Hence find m.
+13.A wooden article was made by scooping out a hemisphere from each end of a solid cylinder. If the height of the cylinder is 10 cm and its base is of radius 3.5 cm. Find the total surface area of the article.
+1.For any positive integer n, prove that n^3 ‒ n is divisible by 6.
+6.If the point C(−1,2) divides the line segment AB in the ratio 3 : 4, where the coordinates of Aare (2, 5), then find the coordinates of B.
+17.Show that 1/2 and -3/2 are the zeroes of the polynomial (4x^2 + 4x - 3)and verify the relationship 2 between zeroes and co-efficients of polynomial.
+7.The  taxi  charges  in  a  city  comprise  of  a  fixed  charge  together  with  the  charges  for  the distance covered. For a journey of 10 km the charge paid is Rs. 75 and for a journey of 15 km the charge paid is Rs.  110. (i) What will a person have to pay for travelling a distance of 25 km? (ii)Which mathematical concept is used in this question? (iii) What is its value? 
+6.Two taps running together can fill a tank in 3(1/13) hours. If one tap takes 3 hours more than the other to fill the tank, then how much time will each tap take to fill the tank?
+2.The houses in a row are numbered consecutively from 1 to 49.Show that there exists a value of xsuch that the sum of numbers of houses preceding the house numbered x is equal to sum of the number of houses following x.
+3.The first and the last terms of an AP are 10 and 361respectively. If its common difference is 9 then find the number of terms and their total sum?
+7.If a line is drawn parallel to one side of a triangle to intersect the other two sides in distinct points, then the other two sides are divided in the same ratio. Prove it.
